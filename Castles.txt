@@ -1,0 +1,6 @@
+Castle,Country,Elevation,Latitude,Longitude,image
+Edinburgh Castle,Scotland,130,55.948611,-3.200833,http://www.planetware.com/photos-large/SCO/scotland-edinburgh-castle-day.jpg
+Malbork Castle,Poland,0,54.039722,19.027778,http://stronghold2.heavengames.com/cpix/cw/cw121_n.jpg
+Spis Castle,Slovakia,634,49.000556,20.768333,https://i.ytimg.com/vi/0gnhDa602GA/maxresdefault.jpg
+Kenilworth Castle,England,,52.3468,-1.5913,https://i.pinimg.com/originals/1f/bf/8d/1fbf8d4e202135b0c204942618f84182.jpg
+Mont Saint-Michel,France,0,48.636,-1.5114,http://www.bayeuxshuttle.com/ckeditor/plugins/doksoft_uploader/userfiles/MSM-AERIAL.jpg
